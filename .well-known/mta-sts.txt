@@ -1,5 +1,5 @@
 version: STSv1
 mode: enforce
-mx: mx1.dreamhost.com
-mx: mx2.dreamhost.com
+mx: mx1.mailchannels.net
+mx: mx2.mailchannels.net.
 max_age: 604800
